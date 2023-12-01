@@ -1,0 +1,105 @@
+  /* Estilos personalizados */
+  body {
+    background-color: white; /* Color de fondo del cuerpo */
+  }
+
+  .navbar {
+    background-color: #343a40; /* Color de fondo principal */
+    border-bottom: 4px solid #ffc107; /* Borde inferior con color amarillo */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Sutil sombra */
+  }
+
+  .navbar-brand {
+    font-size: 1.8rem; /* Tamaño de fuente del nombre de la aerolínea */
+    color: #ffc107; /* Color del texto */
+    font-weight: bold; /* Texto en negrita */
+  }
+
+  .navbar-nav .nav-link {
+    color: black; /* Color del texto de los enlaces */
+  }
+
+  .navbar-nav .nav-link:hover {
+    color: #ffc107; /* Color del texto de los enlaces al pasar el mouse */
+  }
+
+  .navbar-toggler {
+    border-color: black; /* Color del icono del botón de alternar */
+  }
+
+  .navbar-toggler-icon {
+    background-color: black; /* Color del icono del botón de alternar */
+  }
+  body {
+    background-color: #f8f9fa; /* Color de fondo del cuerpo */
+  }
+
+  .navbar {
+    background-color: #343a40; /* Color de fondo del encabezado */
+    border-bottom: 4px solid #ffc107; /* Borde inferior con color amarillo */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Sutil sombra */
+  }
+
+
+  label {
+    font-size: 1.2rem; /* Tamaño de fuente para etiquetas */
+    color: #343a40; /* Color del texto similar al fondo del encabezado */
+    display: block; /* Hace que la etiqueta ocupe toda la anchura disponible */
+    margin-bottom: 5px; /* Espaciado inferior */
+  }
+
+
+
+  body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+  }
+
+  .ticket {
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    width: 400px;
+    text-align: center;
+  }
+
+  .header {
+    background-color: #3498db;
+    color: #fff;
+    padding: 10px;
+    border-radius: 8px 8px 0 0;
+    margin-bottom: 20px;
+  }
+
+  .header h2 {
+    margin: 0;
+    font-size: 1.5em;
+  }
+
+  .info {
+    margin-bottom: 20px;
+  }
+
+  .info p {
+    margin: 8px 0;
+  }
+
+  .total {
+    font-weight: bold;
+    font-size: 1.2em;
+    margin-top: 20px;
+  }
+
+  .logo {
+    width: 50px;
+    height: 50px;
+    margin-bottom: 10px;
+  }
+ 
